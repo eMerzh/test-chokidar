@@ -1,0 +1,3 @@
+{
+  "extends": ["react-app", "../node_modules/lisa-common-config/eslintrc"]
+}
